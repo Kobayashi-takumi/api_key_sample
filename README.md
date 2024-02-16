@@ -14,8 +14,8 @@ Keycloakを利用した、APIKey認証サンプル
 - yarn dev
 
 # クライアント
-- src/index.tsにClientIdとClientSecretを設定する
 - cd client
+- src/index.tsにClientIdとClientSecretを設定する
 - yarn
 - yarn dev
 
